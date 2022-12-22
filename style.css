@@ -4,6 +4,10 @@ body{
     flex-direction: column;
 }
 
+.main-content{
+    height: 420px;
+}
+
 .logo{
     height: 125px;
 }
