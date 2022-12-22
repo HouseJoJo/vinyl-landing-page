@@ -101,6 +101,8 @@ button{
     width: 100%;
     height: 250px;
     object-fit: cover;
+    border-radius: 20px;
+    border: 2px solid black;
 }
 
 .content-2{
@@ -112,6 +114,7 @@ button{
 }
 .bott-grid{
     display: flex;
+    gap: 40px;
 }
 .grid-cont{
     display:flex;
