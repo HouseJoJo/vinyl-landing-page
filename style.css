@@ -3,12 +3,9 @@ body{
     display:flex;
     flex-direction: column;
 }
+
 .logo{
     height: 125px;
-}
-
-.content-1 > img{
-    width: 650px;
 }
 
 .grid-img{
@@ -36,6 +33,7 @@ body{
     align-items: center;
     gap: 20px;
 }
+
 .links > a{
     text-decoration: none;
     color:black;
@@ -43,4 +41,33 @@ body{
 
 .links > a:hover{
     color: grey;
+}
+
+.content-1 > img{
+    height: 300px;
+    width: 600px;
+    object-fit: cover;
+    object-position: 0, 20px;
+    flex:0;
+}
+
+.content-1{
+    display:flex;
+    justify-content: center;
+    gap: 25px;
+    height: 420px;
+    align-items: center;
+}
+.c1-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 700px;
+}
+.c1-left > button{
+    height: 50px;
+    width: 200px;
+}
+.c1-left > h1{
+
 }
