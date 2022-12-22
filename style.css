@@ -1,5 +1,5 @@
 .logo{
-    height: 300px;
+    height: 125px;
 }
 
 .content-1 > img{
@@ -8,4 +8,17 @@
 
 .grid-img{
     width: 400px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-header{
+    display: flex;
+}
+
+.links{
+    display: flex;
 }
