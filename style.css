@@ -1,3 +1,8 @@
+body{
+    margin: 0px;
+    display:flex;
+    flex-direction: column;
+}
 .logo{
     height: 125px;
 }
@@ -15,13 +20,27 @@
     justify-content: space-between;
     font-size: 40px;
     font-weight: bolder;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .left-header{
     display: flex;
+    align-items: center;
+    gap: 10px
 }
 
 .links{
     display: flex;
     font-size: 18px;
+    align-items: center;
+    gap: 20px;
+}
+.links > a{
+    text-decoration: none;
+    color:black;
+}
+
+.links > a:hover{
+    color: grey;
 }
