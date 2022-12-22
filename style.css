@@ -5,6 +5,9 @@ body{
     font-family: "Lexend", sans-serif;
 }
 
+button{
+    border-radius: 10px;
+}
 .main-content{
     height: 420px;
     display: flex;
@@ -14,6 +17,16 @@ body{
 
 .logo{
     height: 125px;
+}
+
+.img1-crop{
+    height: 250px;
+}
+.img1-crop > img{
+    width: 450px;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
 }
 
 .grid-img{
@@ -75,6 +88,9 @@ body{
 .c1-left > button{
     height: 50px;
     width: 200px;
+    border: 2px solid black;
+    font-size: 15px;
+    font-weight: bold;
 }
 
 .crop-grid{
