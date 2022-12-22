@@ -68,6 +68,12 @@ body{
     height: 50px;
     width: 200px;
 }
-.c1-left > h1{
 
+.crop-grid{
+    width: 250px;
+}
+.grid-img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
 }
