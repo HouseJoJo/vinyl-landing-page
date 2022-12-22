@@ -2,6 +2,7 @@ body{
     margin: 0px;
     display:flex;
     flex-direction: column;
+    font-family: "Lexend", sans-serif;
 }
 
 .main-content{
@@ -90,7 +91,8 @@ body{
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(184, 181, 181);
+    background-color: rgb(66, 66, 66);
+    color: white
 }
 .bott-grid{
     display: flex;
