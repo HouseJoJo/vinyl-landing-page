@@ -1,3 +1,7 @@
 .logo{
     height: 300px;
 }
+
+.content-1 > img{
+    width: 650px;
+}
