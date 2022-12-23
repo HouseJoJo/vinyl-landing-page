@@ -123,9 +123,18 @@ button{
 }
 .content-3{
     flex-direction: column;
+    background-color: rgb(185, 185, 185);
 }
 .content-3 > p{
     width: 800px;
+    text-align: right;
+    font-size: 20pt;
+    margin: 0;
+}
+.content-3 > .quote{
+    font-size: 25pt;
+    font-weight: 100;
+    text-align: left;
 }
 .signup-container{
     background-color:rgb(119, 170, 170);
