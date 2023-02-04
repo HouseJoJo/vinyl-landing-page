@@ -2,6 +2,8 @@
 
 CSS and HTML practice. The webpage is the landing page for a fake vinyl shop.
 
+Live preivew available on [Github Pages](https://housejojo.github.io/vinyl-landing-page/)
+
 Image Credits:
 
 Logo image: Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/photos/hrUhyFq6u-A?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
