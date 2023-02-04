@@ -15,3 +15,5 @@ Photo 2 in grid: Photo by ROMBO: https://www.pexels.com/photo/shallow-focus-phot
 Photo 3 in grid: Photo by <a href="https://unsplash.com/@eyeswithmyopia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Swapnil Sharma</a> on <a href="https://unsplash.com/photos/lyfkxrm982M?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 Photo 4 in grid: <a href="https://unsplash.com/photos/iJqi6T5TgSM">Unsplash</a> by <a href="https://unsplash.com/@ritafang">LUFANG CAO</a>
+
+![alt text](https://github.com/HouseJoJo/vinyl-landing-page/blob/main/img/preview.png "Webpage preview")
